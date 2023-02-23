@@ -1,5 +1,5 @@
 # Project on Watermarking Deep Neural Networks # 
-
+# i am making changes 
 
 ## Introduction
 The code in this project serves as a practical implementation of the theoretical concepts discussed in the "Digital Watermarking" section of the work. Thereby, the author consulted existing approaches and compiled a repository with working code to illustrate the embedding and extraction process of digital watermarks in a Deep Neural Network (DNN). In the following, the contents of the repository are outlined, including a main black-box setting and two support programs (Rouhani, Chen, & Koushanfar, 2019; Quan, Teng, Chen, & Ji, 2020). These additional programs define the functionality of the main program and the architecture of the underlying DNN. Finally, a Wide Residual Network (WRN) topology is illustrated, aiming at a better understanding of the complex structure DNNs can possess (Uchida, Nagai, Sakazawa, & Satoh, 2017).
